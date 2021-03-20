@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+.card{
+    background-image: url(../desafio/imagens/backgorund.png);
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 400px;
+    padding: 1px 20px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    color: black;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
